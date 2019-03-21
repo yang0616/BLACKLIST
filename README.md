@@ -1,2 +1,2 @@
 # BLACKLIST
-Tourist blacklist system development
+项目介绍：在Linux系统上使用C语言的个人项目；此项目是基于tcp可靠传输实现客户端和服务器之间的请求响应；利用多线程、socket、fock、execv系列函数、文件的md5值、Makefile等、实现类似百度云基本功能：文件上传、文件下载、VIP闪电上传下载、断点续传、资源下载等。 
